@@ -1,3 +1,5 @@
+package animals;
+
 public class SnowLeopard extends AnyAnimal {
     @Override
     public void voice() {

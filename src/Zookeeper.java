@@ -1,3 +1,6 @@
+import animals.AnyAnimal;
+import Interface.Animal;
+
 public class Zookeeper {
 
     void makeVoice(AnyAnimal animal) {

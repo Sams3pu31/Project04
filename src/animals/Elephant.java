@@ -1,3 +1,5 @@
+package animals;
+
 public class Elephant extends AnyAnimal {
     @Override
     public void voice() {

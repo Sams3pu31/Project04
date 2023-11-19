@@ -1,3 +1,5 @@
+package Interface;
+
 public interface Animal {
     void voice();
     void walk();

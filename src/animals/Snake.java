@@ -1,7 +1,9 @@
+package animals;
+
 public class Snake extends AnyAnimal {
     @Override
     public void voice() {
-        System.out.println("Я змейка и я говорю SSSAYA HASSI EFF");
+        System.out.println("Я змейка, и я говорю SSSAYA HASSI EFF");
     }
 
     @Override

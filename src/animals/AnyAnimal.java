@@ -1,3 +1,7 @@
+package animals;
+
+import Interface.Animal;
+
 public abstract class AnyAnimal implements Animal {
     @Override
     public void walk() {

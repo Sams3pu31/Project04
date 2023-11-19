@@ -1,3 +1,7 @@
+import animals.Elephant;
+import animals.Snake;
+import animals.SnowLeopard;
+
 public class Zoo {
     public static void main(String[] args) {
         Zookeeper zookeeper = new Zookeeper();
